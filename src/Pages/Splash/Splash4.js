@@ -1,5 +1,6 @@
 
-import React, { useState } from "react";
+// import React, { useState } from "react";
+import { InputDefault } from "../../Components/chatInput";
 
 
 export default function () {
@@ -10,7 +11,7 @@ export default function () {
                     <h2 class="text-5xl font-semibold text-center max-w-xl">
                         Great, what should I call you going forward?
                     </h2>
-                    
+                    {/* <InputDefault> Name </InputDefault> */}
                 </div>
 
             </div>

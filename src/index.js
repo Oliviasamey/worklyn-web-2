@@ -1,7 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client'
-import './index.css'
 import App from './App.js'
+import './index.css'
+// Import ThemeProvider from Material Tailwind
+// import { ThemeProvider } from "@material-tailwind/react"
 // import Form from './Components/form';
 
 // export default function App() {
@@ -17,6 +19,6 @@ import App from './App.js'
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+      <App />
   </React.StrictMode>
 );

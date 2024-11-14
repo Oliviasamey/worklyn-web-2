@@ -1,0 +1,12 @@
+{
+    "slides":[
+        {
+            "src": "public/Card7.png",
+            "alt": "Card7"
+        },
+        {
+            "src": "public/Card10.png",
+            "alt": "Card10"
+        }
+    ]
+}
